@@ -12,7 +12,7 @@ This project analyzes 17.5 million NYC Citi Bike trips from 2018 to discover tra
 
 ## Dataset
 
-- **Source:** [NYC Citi Bike System Data](https://citibikenyc.com/system-data)
+- **Source:** DTU Management
 - **Period:** January – December 2018
 - **Size:** ~17.5 million trips (~2GB)
 - **Weather:** Open-Meteo ERA5 Historical API
