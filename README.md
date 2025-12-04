@@ -52,5 +52,5 @@ pip install pandas numpy requests matplotlib seaborn mlxtend scipy scikit-learn 
 ## Usage
 
 1. Clone the repository
-2. Run `Final_Project_new_version.ipynb`
+2. Run `Final_Project.ipynb`
 3. The notebook will automatically download the dataset (~2GB)
