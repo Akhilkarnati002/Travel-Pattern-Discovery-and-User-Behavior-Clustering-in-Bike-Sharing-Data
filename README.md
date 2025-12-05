@@ -38,7 +38,6 @@ This project analyzes 17.5 million NYC Citi Bike trips from 2018 to discover tra
 ## Project Structure
 ```
 ├── Final_Project.ipynb              # Main notebook
-├── Parallel Processing/             # Parallel processing scripts
 ├── Data_source.txt                  # Dataset download link
 ├── README.md
 └── .gitignore
